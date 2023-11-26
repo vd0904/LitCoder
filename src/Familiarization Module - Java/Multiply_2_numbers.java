@@ -5,7 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Multiply_2_numbers {
-
+    // ..........
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int a = input.nextInt();

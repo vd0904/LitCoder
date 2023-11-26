@@ -20,7 +20,7 @@ public class Sliding_Subarray_Beauty {
         return result;
     }
 
-
+    // ..........
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

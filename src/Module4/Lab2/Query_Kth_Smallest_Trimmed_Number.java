@@ -31,6 +31,7 @@ public class Query_Kth_Smallest_Trimmed_Number {
         return answer;
     }
 
+        // ..........
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

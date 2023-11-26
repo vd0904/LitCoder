@@ -51,6 +51,8 @@ public class Simple_Text_Editor {
         }
     }
 
+    // ..........
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         new Simple_Text_Editor(); 

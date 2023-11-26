@@ -54,7 +54,7 @@ public class Queue_using_Two_Stacks {
             System.out.println(stack2.peek());
         }
     }
-
+    // ..........
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();

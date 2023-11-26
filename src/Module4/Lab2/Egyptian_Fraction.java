@@ -21,7 +21,7 @@ public class Egyptian_Fraction {
             remainderDenominator = remainderDenominator * nextDenominator;
         }
     }
-
+    // ..........
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

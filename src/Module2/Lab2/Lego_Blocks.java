@@ -74,7 +74,7 @@ public class Lego_Blocks {
         solidSolutions[height][width] = (int) count;
         return solidSolutions[height][width];
     }
-
+    // ..........
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

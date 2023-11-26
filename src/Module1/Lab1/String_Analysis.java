@@ -32,7 +32,7 @@ public class String_Analysis {
         System.out.printf("%.3f%% %.3f%% %.3f%% %.3f%%", uppercasePercentage, lowercasePercentage, digitPercentage, symbolPercentage);
     }
 
-
+    // ..........
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String email = input.nextLine();
